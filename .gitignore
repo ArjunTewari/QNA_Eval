@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+*.env
+
+# Virtual environment folders
+venv/
+.env/
+
+# API keys or credentials
+openai_api_key
